@@ -13,7 +13,7 @@ I am currently a research assistant at the Institute of Computing and Intelligen
 
 My research interests lie in the areas of Sentiment Analysis (SA), Multi-Agent (MA), Retrieval-Augmented Generation (RAG) and Multimodal (e.g. speech). Recently, I focus on the augmentation and application of Large Language Models (LLMs).
 
-If you are interested in any aspect of me, I would love to chat and collaborate.
+If you are interested in any aspect of my research, I would be delighted to discuss potential collaborations.
 
 Education
 ======
