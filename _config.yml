@@ -12,9 +12,9 @@ title                    : "陈卉垚 (Huiyao Chen)"
 title_separator          : "-"
 name                     : &name "Huiyao Chen"
 description              : &description "personal description"
-url                      : https://chenhuiyao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DreamH1gh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DreamH1gh/chenhuiyao.github.io"
+repository               : "DreamH1gh/DreamH1gh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
