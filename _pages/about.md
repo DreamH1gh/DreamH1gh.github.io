@@ -51,7 +51,7 @@ In 25th Interspeech Conference (**Interspeech**), 2024. [[code]](https://github.
 <br/>
 **Huiyao Chen**, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
-IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 2023. [[code]](https://github.com/DreamH1gh/taslp2022) [[cite]](https://ieeexplore.ieee.org/abstract/document/10286405)
+In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 2023. [[code]](https://github.com/DreamH1gh/taslp2022) [[cite]](https://ieeexplore.ieee.org/abstract/document/10286405)
 
 Service
 ======
