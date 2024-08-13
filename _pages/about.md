@@ -35,11 +35,11 @@ Selected Publications
 <br/>
 In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:dBrd6P_QlNAJ:scholar.google.com/&output=citation&scisdr=ClFwRwRWENvYwCCQMc0:AFWwaeYAAAAAZoOWKc0w53SahfZDtuleoWCA3Mk&scisig=AFWwaeYAAAAAZoOWKZ6CglxLLCKIENKIsVyRPjE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-2. Semantic Role Labeling from Chinese Speech via End-to-End Learning.
+2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
 **Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
 <br/>
-In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL)
+In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
 3. [LLM-Driven Multimodal Opinion Expression Identification](https://arxiv.org/abs/2406.17534).
 <br/>
