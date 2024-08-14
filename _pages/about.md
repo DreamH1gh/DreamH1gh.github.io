@@ -41,7 +41,7 @@ In Transactions of the Association for Computational Linguistics (**TACL**), 202
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
-3. [LLM-Driven Multimodal Opinion Expression Identification](https://arxiv.org/abs/2406.17534).
+3. [LLM-Driven Multimodal Opinion Expression Identification](https://arxiv.org/abs/2406.18088).
 <br/>
 Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
