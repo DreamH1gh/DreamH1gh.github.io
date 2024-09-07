@@ -41,11 +41,11 @@ In Transactions of the Association for Computational Linguistics (**TACL**), 202
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
-3. [LLM-Driven Multimodal Opinion Expression Identification](https://arxiv.org/abs/2406.18088).
+3. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
 <br/>
 Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
-In 25th Interspeech Conference (**Interspeech**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:cHJzdM51U3AJ:scholar.google.com/&output=citation&scisdr=ClFwRwRWENvYwCCaQjY:AFWwaeYAAAAAZoOcWjb6pqkiYI70Wh4z0dKYMEI&scisig=AFWwaeYAAAAAZoOcWgNDuy7eelrNkr9ExMNkkWc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:cHJzdM51U3AJ:scholar.google.com/&output=citation&scisdr=ClFwRwRWENvYwCCaQjY:AFWwaeYAAAAAZoOcWjb6pqkiYI70Wh4z0dKYMEI&scisig=AFWwaeYAAAAAZoOcWgNDuy7eelrNkr9ExMNkkWc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 4. [Automatic Noise Generation and Reduction for Text Classification](https://ieeexplore.ieee.org/abstract/document/10286405/).
 <br/>
