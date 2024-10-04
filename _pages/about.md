@@ -29,11 +29,11 @@ Experience
 Selected Publications
 ======
 \* Equal Contribution.
-1. [Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification](https://arxiv.org/abs/2406.17534).
+1. [Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification](https://watermark.silverchair.com/tacl_a_00697.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0cwggNDBgkqhkiG9w0BBwagggM0MIIDMAIBADCCAykGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMNWmScKfXPREpLn7aAgEQgIIC-q_KDYyj5lUodc0UGqWzfjir_sOkH3h2-y0R1zVJrISxc2DatjCBArEeSsC3zaynK-V4wIPRI0lH4Uja4md3ReT5rDbMlp_M4FzRzNXI2JQtQjF2KsQPxSs61rVeRRQrSQeXn0QZFG9HI1ZmbjywaFpRqPKR6G8Y92aa6ieJtaGfXQP80F0t97NJhhGNr0BRZaUPnkC2lOjlqQUCrwyYJJT37igDQZ2ChWufzfA11qA3w-tR9vTIEHLI05HR2xpZTePq4WqlsoPGWa-PwA_ajF4Sa0lQruBkfPrcE4psirMYKCqtRVK8OFzd2A8h_Rny0cPaeawF0Gbl2doLEucJEUqkUJpSKGrU5K962sD6hHJ6GBAH0b0jxgzCzXkFzz_FepoaiB4ND6QzUwsMxpv3sumnkLlr1ZdhUz4mMfAMYYpFnWI78QuJbzAIJEIWoWtGt5Xfnm0ZVyegMNfXhZjrScxkaM1d_7Gmp3FrUhbIgYZrhXPm1vfR6LfK9qBfaB_kevxSteO0Vsb9tC_YS7S-XVQCXxa23Wx-d2lBvjGv38vAAM3H_9OnfYiG6bPjDBz8MsBmf3RHQkrRHk4uL82mnI5SkICDZtruDwjynpece8if-hO4Ywi027Es5Umn_d_cF_t9TLofosHeI72O7swcv_bmhcg9dPiG2bvP7fyF1F8s7Fk7tdUWw1vtuxLUas42Rn39dseQr_fbx_HrjgTqQ08Uto66XBoJ15aYYxOluXZTqWtQWJzTHUaC-QQGeWtqHt--9d6531_BZoqT0J1ilL1T4fd5UpdqDCP3oA0dGe0RYP7ZWLTslhbkb6ANxlz1IjEqne_a5sRqd1d3BnSvYoO0hT9URVVQCZI_-8bsCzK0LdmoptVKWNB_9EIF7va6lO2nMWxOo0OyHkNJ5TGvSAbEd0lzkHRyK79bnebjuCtQcmY78cbmc5KrTxv2NMWeBPB9wysEwll-cQHz82d3xvaMKujYIgxus4k4es149Fie7RH6E_oa1wjeYQ).
 <br/>
 **Huiyao Chen**\*, Yu Zhao\*, Zulong Chen, Mengjia Wang, Liangyue Li, Meishan Zhang, Min Zhang. 
 <br/>
-In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:dBrd6P_QlNAJ:scholar.google.com/&output=citation&scisdr=ClFwRwRWENvYwCCQMc0:AFWwaeYAAAAAZoOWKc0w53SahfZDtuleoWCA3Mk&scisig=AFWwaeYAAAAAZoOWKZ6CglxLLCKIENKIsVyRPjE&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00697/124630/Retrieval-style-In-context-Learning-for-Few-shot)
 
 2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
