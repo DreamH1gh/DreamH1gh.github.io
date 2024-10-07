@@ -24,7 +24,7 @@ Experience
 ======
 + 2024.06 - now, Visting Student, [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/zhongwen.html), Zhejiang University.
 + 2023.10 - now, Research Assistant, Institute of Computing and Intelligence, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html). Co-advised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/) and Dr. [Min Zhang](https://zhangmin-nlp-ai.github.io/).
-+ 2023.04 - 2023.10, Research Intern, [Enterprise Intelligence Business Division](https://talent-holding.alibaba.com/home/bg-introduce?code=2OAHS3&lang=zh), [Alibaba Group Holding Limited](https://ali-home.alibaba.com/).
++ 2023.04 - 2023.10, Research Intern, [Enterprise Intelligence Business Division](https://talent-holding.alibaba.com/home/bg-introduce?code=2OAHS3&lang=zh), [Alibaba Holding-Aicheng Technology-Enterprise](https://ali-home.alibaba.com/).
 
 Selected Publications
 ======
