@@ -33,7 +33,7 @@ Selected Publications
 <br/>
 **Huiyao Chen**\*, Yu Zhao\*, Zulong Chen, Mengjia Wang, Liangyue Li, Meishan Zhang, Min Zhang. 
 <br/>
-In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00697/124630/Retrieval-style-In-context-Learning-for-Few-shot)
+In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:dBrd6P_QlNAJ:scholar.google.com/&output=citation&scisdr=ClEJxZUPEJKC7r4tO7M:AFWwaeYAAAAAZwkrI7Nl0A7x3_wAPA6cp0eUHTE&scisig=AFWwaeYAAAAAZwkrI_Y1L_CuKXHH3R1eurNfCZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
 
 2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
