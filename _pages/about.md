@@ -30,6 +30,30 @@ Experience
 Selected Publications
 ======
 \* Equal Contribution.
+
+**Preprints**
+
+1. [Semantic Role Labeling: A Systematical Survey](https://arxiv.org/abs/2502.08660).
+<br/>
+**Huiyao Chen**, Meishan Zhang, Jing Li, Min Zhang, Lilja Øvrelid, Jan Hajič, Hao Fei.
+<br/>
+arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)
+
+**Conference Papers**
+
+1. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
+<br/>
+**Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
+<br/>
+In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
+
+2. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
+<br/>
+Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
+<br/>
+In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
+
+**Journal Articles**
 1. Dependency Scoring Learning and Corpus Boosting for Translation-Based Cross-Lingual Dependency Parsing.
 <br/>
 **Huiyao Chen**, Xin Zhang, Jing Chen, Meishan Zhang, Min Zhang. 
@@ -42,19 +66,7 @@ In ACM Transactions on Asian and Low-Resource Language Information Processing (*
 <br/>
 In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:dBrd6P_QlNAJ:scholar.google.com/&output=citation&scisdr=ClEJxZUPEJKC7r4tO7M:AFWwaeYAAAAAZwkrI7Nl0A7x3_wAPA6cp0eUHTE&scisig=AFWwaeYAAAAAZwkrI_Y1L_CuKXHH3R1eurNfCZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
 
-3. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
-<br/>
-**Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
-<br/>
-In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
-
-4. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
-<br/>
-Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
-<br/>
-In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
-
-5. [Automatic Noise Generation and Reduction for Text Classification](https://ieeexplore.ieee.org/abstract/document/10286405/).
+3. [Automatic Noise Generation and Reduction for Text Classification](https://ieeexplore.ieee.org/abstract/document/10286405/).
 <br/>
 **Huiyao Chen**, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
@@ -63,7 +75,7 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ ICME2025, ACL 2023, EMNLP 2023 (external), TASLP
++ ICME2025, ACL 2023, EMNLP 2023 (external), TASLP, TALLIP
 + ACL ARR
 
 Awards
