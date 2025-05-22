@@ -41,13 +41,19 @@ arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)
 
 **Conference Papers**
 
-1. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
+1. LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models.
+<br/>
+Xinxin Li\*, **Huiyao Chen**\*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.
+<br/>
+In Findings of the Association for Computational Linguistics (**ACL**), 2025.
+
+2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
 **Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
-2. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
+3. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
 <br/>
 Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
