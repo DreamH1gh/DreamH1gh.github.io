@@ -27,6 +27,11 @@ Experience
 + 2023.10 - 2025.02, Research Assistant, Institute of Computing and Intelligence, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html). Co-advised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/) and Dr. [Min Zhang](https://zhangmin-nlp-ai.github.io/).
 + 2023.04 - 2023.10, Research Intern, [Enterprise Intelligence Business Division](https://talent-holding.alibaba.com/home/bg-introduce?code=2OAHS3&lang=zh), [Alibaba Holding-Aicheng Technology-Enterprise](https://ali-home.alibaba.com/).
 
+
+Open Source Projects
+======
+1. **Scholar Citation Monitor** ![alt text](icon16.png) - A Chrome extension for automated Google Scholar citation tracking. Monitor multiple researchers' citation counts in the background without opening tabs, featuring real-time updates, multi-domain support, and lightweight design. Helps researchers focus on actual work rather than compulsive metrics checking. [[Github]](https://github.com/DreamH1gh/Scholar-Citation-Monitor)
+
 Selected Publications
 ======
 \* Equal Contribution.
@@ -38,6 +43,12 @@ Selected Publications
 **Huiyao Chen**, Meishan Zhang, Jing Li, Min Zhang, Lilja Øvrelid, Jan Hajič, Hao Fei.
 <br/>
 arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+2. DISRetrieval: Harnessing Discourse Structure for Long Document Retrieval.
+<br/>
+**Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Min Zhang.
+<br/>
+arXiv preprint, 2025.[[code]](https://github.com/DreamH1gh/DISRetrieval)
 
 **Conference Papers**
 
@@ -81,7 +92,7 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ ICME2025, ACL 2023, EMNLP 2023 (external), TASLP, TALLIP
++ NLPCC2025, ICME2025, ACL 2023, EMNLP 2023 (external), TASLP, TALLIP
 + ACL ARR
 
 Awards
