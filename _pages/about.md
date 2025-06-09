@@ -52,11 +52,11 @@ arXiv preprint, 2025.[[code]](https://github.com/DreamH1gh/DISRetrieval)
 
 **Conference Papers**
 
-1. LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models.
+1. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://arxiv.org/abs/2506.05385).
 <br/>
 Xinxin Li\*, **Huiyao Chen**\*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.
 <br/>
-In Findings of the Association for Computational Linguistics (**ACL**), 2025.
+In Findings of the Association for Computational Linguistics (**ACL**), 2025. [[code]](https://github.com/fangfang123gh/LLM-SRL)
 
 2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
