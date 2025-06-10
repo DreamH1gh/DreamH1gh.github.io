@@ -44,11 +44,11 @@ Selected Publications
 <br/>
 arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-2. DISRetrieval: Harnessing Discourse Structure for Long Document Retrieval.
+2. [DISRetrieval: Harnessing Discourse Structure for Long Document Retrieval](https://arxiv.org/abs/2506.06313).
 <br/>
 **Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Min Zhang.
 <br/>
-arXiv preprint, 2025.[[code]](https://github.com/DreamH1gh/DISRetrieval)
+arXiv preprint, 2025. [[code]](https://github.com/DreamH1gh/DISRetrieval)
 
 **Conference Papers**
 
