@@ -93,7 +93,7 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ NLPCC2025, ICME2025, ACL 2023, EMNLP 2023 (external), TASLP, TALLIP
++ NLPCC2025, ICME2025, ACL 2023, EMNLP 2023 (external), TASLP, TALLIP, Neurocomputing
 + ACL ARR
 
 Awards
