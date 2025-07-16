@@ -72,11 +72,11 @@ Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang.
 In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
 
 **Journal Articles**
-1. Dependency Scoring Learning and Corpus Boosting for Translation-Based Cross-Lingual Dependency Parsing.
+1. [Dependency Scoring Learning and Corpus Boosting for Translation-Based Cross-Lingual Dependency Parsing](https://dl.acm.org/doi/abs/10.1145/3748315).
 <br/>
 **Huiyao Chen**, Xin Zhang, Jing Chen, Meishan Zhang, Min Zhang. 
 <br/>
-In ACM Transactions on Asian and Low-Resource Language Information Processing (**TALLIP**), 2025. [[code]](https://github.com/DreamH1gh/Fake_Teacher)
+In ACM Transactions on Asian and Low-Resource Language Information Processing (**TALLIP**), 2025. [[code]](https://github.com/DreamH1gh/Fake_Teacher) [[cite]](https://dl.acm.org/doi/abs/10.1145/3748315)
 
 2. [Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00697/124630/Retrieval-style-In-context-Learning-for-Few-shot).
 <br/>
