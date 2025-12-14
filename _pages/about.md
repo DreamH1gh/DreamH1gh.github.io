@@ -19,7 +19,7 @@ Education
 ======
 + 2025.09 - ongoing, Ph.D. Student in LIMA, [Shenzhen Loop Area Institute](https://www.slai.edu.cn/). Advised by Dr. [Min Zhang](https://zhangmin-nlp-ai.github.io/).
 + 2025.03 - ongoing, Ph.D. Student in Computer Science, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html). Co-advised by Dr. [Meishan Zhang](https://zhangmeishan.github.io/) and Dr. [Min Zhang](https://zhangmin-nlp-ai.github.io/).
-+ 2021.09 - 2024.03, M.Eng. in Computer Technology, [Tianjin University](https://www.tju.edu.cn/english/index.htm). Co-advised by Dr. [Yueheng Sun](https://yhstju.github.io/Yueheng_Sun/) and Dr. [Meishan Zhang](https://zhangmeishan.github.io/).
++ 2021.09 - 2024.03, M.Eng. in Computer Science, [Tianjin University](https://www.tju.edu.cn/english/index.htm). Co-advised by Dr. [Yueheng Sun](https://yhstju.github.io/Yueheng_Sun/) and Dr. [Meishan Zhang](https://zhangmeishan.github.io/).
 + 2017.09 - 2021.06, B.Eng. in Intelligence Science and Technology, [Central South University](https://en.csu.edu.cn/).
 
 Experience
@@ -95,7 +95,7 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ NLPCC2025, ICME2025/2026, EACL 2024, ACL 2023, EMNLP 2023 (external)
++ NLPCC2025, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
 + ACM Computing Surveys (CSUR), TASLP, TALLIP, Neurocomputing, ESWA, EAAI
 + ACL ARR
 
