@@ -59,7 +59,7 @@ arXiv preprint, 2025. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]
 <br/>
 Qiujing Xu, Bobo Li, Meishan Zhang, **Huiyao Chen**, Fei Li and Donghong Ji.
 <br/>
-In Proceedings of ICASSP, 2026.
+In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026.
 
 
 2. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
