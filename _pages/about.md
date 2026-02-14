@@ -55,19 +55,26 @@ arXiv preprint, 2025. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]
 
 **Conference Papers**
 
-1. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
+1. Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models.
+<br/>
+Qiujing Xu, Bobo Li, Meishan Zhang, **Huiyao Chen**, Fei Li and Donghong Ji.
+<br/>
+In Proceedings of ICASSP, 2026.
+
+
+2. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
 <br/>
 Xinxin Li\*, **Huiyao Chen**\*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2025. [[code]](https://github.com/fangfang123gh/LLM-SRL)[[cite]](https://aclanthology.org/2025.findings-acl.1189/)
 
-2. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
+3. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
 **Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
-3. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
+4. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
 <br/>
 Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
@@ -101,6 +108,7 @@ Service
 
 Awards
 ======
++ 2026, CCF-SLAI Tencent Project Up Doctoral Forum **Best Research Honor**.
 + 2021, Extraordinary Academic Scholarship of TJU.
 + 2021, Outstanding Graduates in Hunan Province.
 + 2020, Extraordinary Education Scholarship of ''Shanhe Talent'' (top 30 of 32000+).
