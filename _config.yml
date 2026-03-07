@@ -171,6 +171,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - backup_pages
 keep_files:
   - .git
   - .svn
