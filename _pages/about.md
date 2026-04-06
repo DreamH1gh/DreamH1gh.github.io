@@ -46,35 +46,35 @@ Selected Publications
 <br/>
 arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
-2. [DISRetrieval: Harnessing Discourse Structure for Long Document Retrieval](https://arxiv.org/abs/2506.06313).
-<br/>
-**Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Min Zhang.
-<br/>
-arXiv preprint, 2025. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hsKCt3ze8xAJ:scholar.google.com/&output=citation&scisdr=CgLTt79aELL34fMlmNo:AAZF9b8AAAAAaE0jgNoR_459FNzSwGDdInMBYe4&scisig=AAZF9b8AAAAAaE0jgOikMvZY2qM7wPdzhL-eQnE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
-
 
 **Conference Papers**
 
-1. Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models.
+1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://arxiv.org/abs/2506.06313).
+<br/>
+**Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Baotian Hu, Min Zhang.
+<br/>
+In Proceedings of the 64st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hsKCt3ze8xAJ:scholar.google.com/&output=citation&scisdr=CgLTt79aELL34fMlmNo:AAZF9b8AAAAAaE0jgNoR_459FNzSwGDdInMBYe4&scisig=AAZF9b8AAAAAaE0jgOikMvZY2qM7wPdzhL-eQnE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
+
+2. Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models.
 <br/>
 Qiujing Xu, Bobo Li, Meishan Zhang, **Huiyao Chen**, Fei Li and Donghong Ji.
 <br/>
 In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026.
 
 
-2. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
+3. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
 <br/>
 Xinxin Li\*, **Huiyao Chen**\*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2025. [[code]](https://github.com/fangfang123gh/LLM-SRL)[[cite]](https://aclanthology.org/2025.findings-acl.1189/)
 
-3. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
+4. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
 **Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
-4. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
+5. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
 <br/>
 Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
