@@ -40,11 +40,17 @@ Selected Publications
 
 **Preprints**
 
-1. [Semantic Role Labeling: A Systematical Survey](https://arxiv.org/abs/2502.08660).
+1. [A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://arxiv.org/abs/2502.08660).
 <br/>
-**Huiyao Chen**, Meishan Zhang, Jing Li, Min Zhang, Lilja Øvrelid, Jan Hajič, Hao Fei.
+**Huiyao Chen**, Meishan Zhang, Jing Li, Lilja Øvrelid, Jan Hajič, Hao Fei, Min Zhang.
 <br/>
 arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+2. [From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing](https://arxiv.org/abs/2604.03259).
+<br/>
+**Huiyao Chen**, Ruimeng Liu, Yan Luo, Jiawen Zhang, Meishan Zhang, Baotian Hu, Min Zhang.
+<br/>
+arXiv preprint, 2026.[[Awesome-AI4Psychological-Papers]](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers)[[cite]](https://arxiv.org/abs/2604.03259)
 
 
 **Conference Papers**
