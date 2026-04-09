@@ -50,7 +50,7 @@ arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[
 <br/>
 **Huiyao Chen**, Ruimeng Liu, Yan Luo, Jiawen Zhang, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
-arXiv preprint, 2026.[[Awesome-AI4Psychological-Papers]](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers)[[cite]](https://arxiv.org/abs/2604.03259)
+arXiv preprint, 2026.[[Awesome-AI4Psychological-Papers]](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:eBahVuhCYc4J:scholar.google.com/&output=citation&scisdr=Cjxm5deSELL34GlbHyo:ADi0EEUAAAAAadddByoTtSRM_TImgXHWUz7tJU4&scisig=ADi0EEUAAAAAadddBztlS5uSvM1pL0cLywIS5X0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 
 **Conference Papers**
