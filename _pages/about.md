@@ -55,17 +55,17 @@ arXiv preprint, 2026.[[Awesome-AI4Psychological-Papers]](https://github.com/Drea
 
 **Conference Papers**
 
-1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://arxiv.org/abs/2506.06313).
+1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://arxiv.org/abs/2506.06313). <font color=dark red>[Oral, Top 5% of accepted papers]</font>
 <br/>
 **Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
 In Proceedings of the 64st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hsKCt3ze8xAJ:scholar.google.com/&output=citation&scisdr=CgLTt79aELL34fMlmNo:AAZF9b8AAAAAaE0jgNoR_459FNzSwGDdInMBYe4&scisig=AAZF9b8AAAAAaE0jgOikMvZY2qM7wPdzhL-eQnE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
 
-2. Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models.
+2. [Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models](https://ieeexplore.ieee.org/document/11463491).
 <br/>
 Qiujing Xu, Bobo Li, Meishan Zhang, **Huiyao Chen**, Fei Li and Donghong Ji.
 <br/>
-In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026.
+In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026.[[cite]](https://ieeexplore.ieee.org/document/11463491)
 
 
 3. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
@@ -108,13 +108,13 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ NLPCC2025, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
++ ~~NeurIPS2026~~, NLPCC2025, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
 + ACM Computing Surveys (CSUR), TASLP, TALLIP, Neurocomputing, ESWA, EAAI
 + ACL ARR
 
 Awards
 ======
-+ 2026, CCF-SLAI Tencent Project Up Doctoral Forum **Best Research Honor**.
++ 2026, CCF-SLAI Tencent Project Up Doctoral Forum <font color=dark red>**Best Research Honor**</font>.
 + 2021, Extraordinary Academic Scholarship of TJU.
 + 2021, Outstanding Graduates in Hunan Province.
 + 2020, Extraordinary Education Scholarship of ''Shanhe Talent'' (top 30 of 32000+).
