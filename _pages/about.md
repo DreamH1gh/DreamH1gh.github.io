@@ -55,7 +55,7 @@ arXiv preprint, 2026.[[Awesome-AI4Psychological-Papers]](https://github.com/Drea
 
 **Conference Papers**
 
-1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://arxiv.org/abs/2506.06313). <font color=dark red>[Oral, Top 5% of accepted papers]</font>
+1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://arxiv.org/abs/2506.06313). **<font color=dark red>[Oral, Top 5% of accepted papers]</font>**
 <br/>
 **Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
