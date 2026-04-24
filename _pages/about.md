@@ -114,7 +114,7 @@ Service
 
 Awards
 ======
-+ 2026, CCF-SLAI Tencent Project Up Doctoral Forum <font color=dark red>**Best Research Honor**</font>.
++ 2026, CCF-SLAI Tencent Project Up Doctoral Forum **<font color=dark red>Best Research Honor</font>**.
 + 2021, Extraordinary Academic Scholarship of TJU.
 + 2021, Outstanding Graduates in Hunan Province.
 + 2020, Extraordinary Education Scholarship of ''Shanhe Talent'' (top 30 of 32000+).
