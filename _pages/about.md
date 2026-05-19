@@ -114,6 +114,7 @@ Service
 
 Awards
 ======
++ 2026, ACMMM AVI Challenge (Track 1) **<font color=dark red>No.2 Place</font>** (2/53).
 + 2026, CCF-SLAI Tencent Project Up Doctoral Forum **<font color=dark red>Best Research Honor</font>**.
 + 2021, Extraordinary Academic Scholarship of TJU.
 + 2021, Outstanding Graduates in Hunan Province.
