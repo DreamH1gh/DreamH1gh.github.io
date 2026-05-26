@@ -32,7 +32,7 @@ Experience
 
 Open Source Projects
 ======
-1. **Scholar Citation Monitor** ![alt text](icon16.png) - A Chrome extension for automated Google Scholar citation tracking. Monitor multiple researchers' citation counts in the background without opening tabs, featuring real-time updates, multi-domain support, and lightweight design. Helps researchers focus on actual work rather than compulsive metrics checking. [[Github]](https://github.com/DreamH1gh/Scholar-Citation-Monitor)
+1. **Scholar Citation Monitor** ![alt text](icon16.png) - A Chrome extension for automated Google Scholar citation tracking. Monitor multiple researchers' citation counts in the background without opening tabs, featuring real-time updates, multi-domain support, and lightweight design. Helps researchers focus on actual work rather than compulsive metrics checking. [[Github]](https://github.com/DreamH1gh/Scholar-Citation-Monitor) [[Chrome Web Store]](https://chromewebstore.google.com/detail/scholar-citation-monitor/hcmmccenfdomniepffcngceogeaajigc)
 
 Selected Publications
 ======
