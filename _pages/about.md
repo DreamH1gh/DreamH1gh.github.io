@@ -40,18 +40,23 @@ Selected Publications
 
 **Preprints**
 
-1. [A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://arxiv.org/abs/2502.08660).
-<br/>
-**Huiyao Chen**, Meishan Zhang, Jing Li, Lilja Øvrelid, Jan Hajič, Hao Fei, Min Zhang.
-<br/>
-arXiv preprint, 2025.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
-
-2. [From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing](https://arxiv.org/abs/2604.03259).
+1. [From Pre-trained Models to Large Language Models: A Comprehensive Survey of AI-Driven Psychological Computing](https://arxiv.org/abs/2604.03259).
 <br/>
 **Huiyao Chen**, Ruimeng Liu, Yan Luo, Jiawen Zhang, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
-arXiv preprint, 2026.[[Awesome-AI4Psychological-Papers]](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:eBahVuhCYc4J:scholar.google.com/&output=citation&scisdr=Cjxm5deSELL34GlbHyo:ADi0EEUAAAAAadddByoTtSRM_TImgXHWUz7tJU4&scisig=ADi0EEUAAAAAadddBztlS5uSvM1pL0cLywIS5X0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+arXiv preprint, 2026. [[Awesome-AI4Psychological-Papers]](https://github.com/DreamH1gh/Awesome-AI4Psychological-Papers)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:eBahVuhCYc4J:scholar.google.com/&output=citation&scisdr=Cjxm5deSELL34GlbHyo:ADi0EEUAAAAAadddByoTtSRM_TImgXHWUz7tJU4&scisig=ADi0EEUAAAAAadddBztlS5uSvM1pL0cLywIS5X0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
+2. [Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations](https://arxiv.org/abs/2606.13464)
+<br/>
+Xinxin Li\*, **Huiyao Chen**\*, Meishan Zhang, Yunxin Li, Zulong Chen, Zhibo Ren, Xiaoqing Dong Baotian Hu, Min Zhang
+<br/>
+arXiv preprint, 2026. [[code]](https://github.com/fangfang123gh/ontology-asr-correction)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:pLTm3Yj6xd0J:scholar.google.com/&output=citation&scisdr=CtR6EYaIELHs44rIH94:ANDmEU4AAAAAajTOB97WO6w1exGMUV3KHlrXPs4&scisig=ANDmEU4AAAAAajTOByMYD-rO1irMq3xSn5Eb8i0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+3. [A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6760537)
+<br/>
+Fanji Yang\*, **Huiyao Chen**\*, Xi Yu, Meishan Zhang, Xiaohong Xiao, Mingsen Deng
+<br/>
+Available at SSRN, 2026. [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:H0ugjFoCMF8J:scholar.google.com/&output=citation&scisdr=CtR6EYaIELHs44rJftw:ANDmEU4AAAAAajTPZtyf5olVsklDFAcS_ysluN0&scisig=ANDmEU4AAAAAajTPZmhX0Y_Nj4sLXGo8HyF3zXs&scisf=4&ct=citation&cd=-1&hl=en)
 
 **Conference Papers**
 
@@ -87,19 +92,25 @@ Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang.
 In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
 
 **Journal Articles**
-1. [Dependency Scoring Learning and Corpus Boosting for Translation-Based Cross-Lingual Dependency Parsing](https://dl.acm.org/doi/abs/10.1145/3748315).
+1. [A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://arxiv.org/abs/2502.08660).
+<br/>
+**Huiyao Chen**, Meishan Zhang, Jing Li, Lilja Øvrelid, Jan Hajič, Hao Fei, Min Zhang.
+<br/>
+Artificial Intelligence Review (**AIR**) **<font color=dark red>IF 18.8</font>**, 2026.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+
+2. [Dependency Scoring Learning and Corpus Boosting for Translation-Based Cross-Lingual Dependency Parsing](https://dl.acm.org/doi/abs/10.1145/3748315).
 <br/>
 **Huiyao Chen**, Xin Zhang, Jing Chen, Meishan Zhang, Min Zhang. 
 <br/>
 In ACM Transactions on Asian and Low-Resource Language Information Processing (**TALLIP**), 2025. [[code]](https://github.com/DreamH1gh/Fake_Teacher) [[cite]](https://dl.acm.org/doi/abs/10.1145/3748315)
 
-2. [Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00697/124630/Retrieval-style-In-context-Learning-for-Few-shot).
+3. [Retrieval-style In-Context Learning for Few-shot Hierarchical Text Classification](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00697/124630/Retrieval-style-In-context-Learning-for-Few-shot).
 <br/>
 **Huiyao Chen**\*, Yu Zhao\*, Zulong Chen, Mengjia Wang, Liangyue Li, Meishan Zhang, Min Zhang. 
 <br/>
-In Transactions of the Association for Computational Linguistics (**TACL**), 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:dBrd6P_QlNAJ:scholar.google.com/&output=citation&scisdr=ClEJxZUPEJKC7r4tO7M:AFWwaeYAAAAAZwkrI7Nl0A7x3_wAPA6cp0eUHTE&scisig=AFWwaeYAAAAAZwkrI_Y1L_CuKXHH3R1eurNfCZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
+In Transactions of the Association for Computational Linguistics (**TACL**) **<font color=dark red>IF 11.7</font>**, 2024. [[code]](https://github.com/DreamH1gh/TACL2024) [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:dBrd6P_QlNAJ:scholar.google.com/&output=citation&scisdr=ClEJxZUPEJKC7r4tO7M:AFWwaeYAAAAAZwkrI7Nl0A7x3_wAPA6cp0eUHTE&scisig=AFWwaeYAAAAAZwkrI_Y1L_CuKXHH3R1eurNfCZ4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
 
-3. [Automatic Noise Generation and Reduction for Text Classification](https://ieeexplore.ieee.org/abstract/document/10286405/).
+4. [Automatic Noise Generation and Reduction for Text Classification](https://ieeexplore.ieee.org/abstract/document/10286405/).
 <br/>
 **Huiyao Chen**, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
