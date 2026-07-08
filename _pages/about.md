@@ -60,11 +60,11 @@ Available at SSRN, 2026. [[cite]](https://scholar.googleusercontent.com/scholar.
 
 **Conference Papers**
 
-1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://arxiv.org/abs/2506.06313). **<font color=dark red>[Oral, Top 5% of accepted papers]</font>**
+1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://aclanthology.org/2026.acl-long.829.pdf).
 <br/>
 **Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
-In Proceedings of the 64st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:hsKCt3ze8xAJ:scholar.google.com/&output=citation&scisdr=CgLTt79aELL34fMlmNo:AAZF9b8AAAAAaE0jgNoR_459FNzSwGDdInMBYe4&scisig=AAZF9b8AAAAAaE0jgOikMvZY2qM7wPdzhL-eQnE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)
+In Proceedings of the 64st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]](https://aclanthology.org/2026.acl-long.829/)
 
 2. [Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models](https://ieeexplore.ieee.org/document/11463491).
 <br/>
