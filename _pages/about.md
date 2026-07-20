@@ -92,7 +92,7 @@ Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang.
 In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
 
 **Journal Articles**
-1. [A Systematic Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://arxiv.org/abs/2502.08660).
+1. [A Comprehensive Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://link.springer.com/article/10.1007/s10462-026-11623-5).
 <br/>
 **Huiyao Chen**, Meishan Zhang, Jing Li, Lilja Øvrelid, Jan Hajič, Hao Fei, Min Zhang.
 <br/>
