@@ -104,7 +104,7 @@ In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.
 <br/>
 **Huiyao Chen**, Meishan Zhang, Jing Li, Lilja Øvrelid, Jan Hajič, Hao Fei, Min Zhang.
 <br/>
-Artificial Intelligence Review (**AIR**) **<font color=dark red>IF 18.8</font>**, 2026.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:zyx6xw6ZWxsJ:scholar.google.com/&output=citation&scisdr=CgIPxf5QEIea9O-H2Ts:AAZF9b8AAAAAaC6BwTvJqKyOWxy44kFXW55MpBw&scisig=AAZF9b8AAAAAaC6BwYrrVwlBWPy-1_y_fC9unbc&scisf=4&ct=citation&cd=-1&hl=zh-CN)
+Artificial Intelligence Review (**AIR**) **<font color=dark red>IF 18.8</font>**, 2026.[[Awesome-SRL]](https://github.com/DreamH1gh/Awesome-SRL)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:ElGBbnfMMTcJ:scholar.google.com/&output=citation&scisdr=CslLFeRiELHs4-DsLls:AM1tuoMAAAAAal7qNlqdwUlOsGLPk1qWUtON6OY&scisig=AM1tuoMAAAAAal7qNsZSwH6MQHefQdBPlJO4zpQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 2. [Dependency Scoring Learning and Corpus Boosting for Translation-Based Cross-Lingual Dependency Parsing](https://dl.acm.org/doi/abs/10.1145/3748315).
 <br/>
