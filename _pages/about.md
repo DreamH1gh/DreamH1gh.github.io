@@ -15,6 +15,13 @@ My research interests lie in the areas of Sentiment Analysis (SA), Multi-Agent (
 
 If you are interested in any aspect of my research, I would be delighted to discuss potential collaborations.
 
+Recent News
+======
++ 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · Survey on Semantic Role Labeling published in **[Artificial Intelligence Review (AIR, IF 18.8)](#paper-air2026)**.
++ 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · One paper accepted to **[ACL 2026](#paper-acl2026)** (Long paper, Main conference).
++ 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.05** · Won **No.2 Place (2/53)** at the ACMMM AVI Challenge (Track 1).
++ 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.01** · Received **Best Research Honor** at the CCF-SLAI Tencent Project Up Doctoral Forum.
+
 Education
 ======
 + 2025.09 - ongoing, Ph.D. Student in LIMA, [Shenzhen Loop Area Institute](https://www.slai.edu.cn/). Advised by Dr. [Min Zhang](https://zhangmin-nlp-ai.github.io/).
@@ -33,6 +40,7 @@ Experience
 Open Source Projects
 ======
 1. **Scholar Citation Monitor** ![alt text](icon16.png) - A Chrome extension for automated Google Scholar citation tracking. Monitor multiple researchers' citation counts in the background without opening tabs, featuring real-time updates, multi-domain support, and lightweight design. Helps researchers focus on actual work rather than compulsive metrics checking. [[Github]](https://github.com/DreamH1gh/Scholar-Citation-Monitor) [[Chrome Web Store]](https://chromewebstore.google.com/detail/scholar-citation-monitor/hcmmccenfdomniepffcngceogeaajigc)
+   [![GitHub Stars](https://img.shields.io/github/stars/DreamH1gh/Scholar-Citation-Monitor?style=social)](https://github.com/DreamH1gh/Scholar-Citation-Monitor) [![Chrome Users](https://img.shields.io/chrome-web-store/users/hcmmccenfdomniepffcngceogeaajigc?label=Chrome%20Users&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/scholar-citation-monitor/hcmmccenfdomniepffcngceogeaajigc)
 
 Selected Publications
 ======
@@ -60,7 +68,7 @@ Available at SSRN, 2026. [[cite]](https://scholar.googleusercontent.com/scholar.
 
 **Conference Papers**
 
-1. [Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://aclanthology.org/2026.acl-long.829.pdf).
+1. <a id="paper-acl2026"></a>[Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://aclanthology.org/2026.acl-long.829.pdf).
 <br/>
 **Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
@@ -92,7 +100,7 @@ Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang.
 In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
 
 **Journal Articles**
-1. [A Comprehensive Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://link.springer.com/article/10.1007/s10462-026-11623-5).
+1. <a id="paper-air2026"></a>[A Comprehensive Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://link.springer.com/article/10.1007/s10462-026-11623-5).
 <br/>
 **Huiyao Chen**, Meishan Zhang, Jing Li, Lilja Øvrelid, Jan Hajič, Hao Fei, Min Zhang.
 <br/>
@@ -119,7 +127,7 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ ~~NeurIPS2026~~, NLPCC2025, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
++ ~~NeurIPS2026~~, NLPCC2025/2026, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
 + ACM Computing Surveys (CSUR), TASLP, TALLIP, Neurocomputing, ESWA, EAAI
 + ACL ARR
 
