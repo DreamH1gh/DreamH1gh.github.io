@@ -18,7 +18,7 @@ If you are interested in any aspect of my research, I would be delighted to disc
 Recent News
 ======
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · Survey on Semantic Role Labeling published in **[Artificial Intelligence Review (AIR, IF 18.8)](#paper-air2026)**.
-+ 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · One paper accepted to **[ACL 2026](#paper-acl2026)** (Long paper, Main conference, <font color=dark red>**Oral**</font>).
++ 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · One paper accepted to **[ACL 2026](#paper-acl2026)** (Long paper, Main conference, **<font color=dark red>Oral</font>)**.
 + 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.05** · Won **No.2 Place (2/53)** at the ACMMM AVI Challenge (Track 1).
 + 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.01** · Received **Best Research Honor** at the CCF-SLAI Tencent Project Up Doctoral Forum.
 
