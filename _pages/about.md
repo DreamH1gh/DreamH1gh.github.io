@@ -67,33 +67,39 @@ Fanji Yang\*, **Huiyao Chen**\*, Xi Yu, Meishan Zhang, Xiaohong Xiao, Mingsen De
 Available at SSRN, 2026. [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:H0ugjFoCMF8J:scholar.google.com/&output=citation&scisdr=CtR6EYaIELHs44rJftw:ANDmEU4AAAAAajTPZtyf5olVsklDFAcS_ysluN0&scisig=ANDmEU4AAAAAajTPZmhX0Y_Nj4sLXGo8HyF3zXs&scisf=4&ct=citation&cd=-1&hl=en)
 
 **Conference Papers**
+1. SAGE: Soft-gated Aggregation of Graded Experts for Cognitive Level Prediction in Video Interviews.
+<br/>
+Yan Luo, **Huiyao Chen**, Ramen Liu, Yumeng Fu, Kamal Elgallouch, Sanjida Ferdous, Meishan Zhang, Baotian Hu, Min Zhang.
+<br/>
+In the 15th CCF International Conference on Natural Language Processing and Chinese Computing (**NLPCC**), 2026. **<font color=dark red>Oral</font>**
 
-1. <a id="paper-acl2026"></a>[Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://aclanthology.org/2026.acl-long.829.pdf).
+
+2. <a id="paper-acl2026"></a>[Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering](https://aclanthology.org/2026.acl-long.829.pdf).
 <br/>
 **Huiyao Chen**, Yi Yang, Yinghui Li, Meishan Zhang, Baotian Hu, Min Zhang.
 <br/>
 In Proceedings of the 64st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. **<font color=dark red>Oral</font>** [[code]](https://github.com/DreamH1gh/DISRetrieval)[[cite]](https://aclanthology.org/2026.acl-long.829/)
 
-2. [Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models](https://ieeexplore.ieee.org/document/11463491).
+3. [Rationale-Augmented Fine-Grained Opinion Mining with Large Language Models](https://ieeexplore.ieee.org/document/11463491).
 <br/>
 Qiujing Xu, Bobo Li, Meishan Zhang, **Huiyao Chen**, Fei Li and Donghong Ji.
 <br/>
 In Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026.[[cite]](https://ieeexplore.ieee.org/document/11463491)
 
 
-3. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
+4. [LLMs Can Also Do Well! Breaking Barriers in Semantic Role Labeling via Large Language Models](https://aclanthology.org/2025.findings-acl.1189.pdf).
 <br/>
 Xinxin Li\*, **Huiyao Chen**\*, Chengjun Liu, Jing Li, Meishan Zhang, Jun Yu, Min Zhang.
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2025. [[code]](https://github.com/fangfang123gh/LLM-SRL)[[cite]](https://aclanthology.org/2025.findings-acl.1189/)
 
-4. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
+5. [Semantic Role Labeling from Chinese Speech via End-to-End Learning](https://aclanthology.org/2024.findings-acl.527.pdf).
 <br/>
 **Huiyao Chen**\*, Xinxin Li\*, Meishan Zhang, Min Zhang. 
 <br/>
 In Findings of the Association for Computational Linguistics (**ACL**), 2024. [[code]](https://github.com/DreamH1gh/SpeechSRL) [[cite]](https://aclanthology.org/2024.findings-acl.527/)
 
-5. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
+6. [LLM-Driven Multimodal Opinion Expression Identification](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.pdf).
 <br/>
 Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang. 
 <br/>
@@ -127,7 +133,7 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ ~~NeurIPS2026~~, NLPCC2025/2026, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
++ CIKM 2026, ~~NeurIPS2026~~, NLPCC2025/2026, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
 + ACM Computing Surveys (CSUR), TASLP, TALLIP, Neurocomputing, ESWA, EAAI
 + ACL ARR
 
