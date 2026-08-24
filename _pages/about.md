@@ -20,7 +20,7 @@ Recent News
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.08** · Survey on Fake Review Detection accepted by **[Information Fusion (IF 17.4)](#paper-infofus2026)**.
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · Survey on Semantic Role Labeling published in **[Artificial Intelligence Review (AIR, IF 18.8)](#paper-air2026)**.
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · One paper accepted to **[ACL 2026](#paper-acl2026)** (Long paper, Main conference, **<font color=dark red>Oral</font>)**.
-+ 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.05** · Won **No.2 Place (2/53)** at the ACMMM AVI Challenge (Track 1).
++ 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.05** · Won **No.2 Place** at the ACMMM AVI Challenge (Track 1).
 + 🏆 <span style="color:#97600a; background-color:#fdf3e0; padding:1px 8px; border-radius:10px; font-size:0.85em">**Award**</span> · **2026.01** · Received **Best Research Honor** at the CCF-SLAI Tencent Project Up Doctoral Forum.
 
 Education
@@ -101,11 +101,11 @@ Bonian Jia\*, **Huiyao Chen**\*, Yueheng Sun, Meishan Zhang, Min Zhang.
 In 25th Interspeech Conference (**INTERSPEECH**), 2024. [[code]](https://github.com/3cqscbr26/LLM-MOEI) [[cite]](https://www.isca-archive.org/interspeech_2024/jia24_interspeech.html#)
 
 **Journal Articles**
-1. <a id="paper-infofus2026"></a>[A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6760537).
+1. <a id="paper-infofus2026"></a>[A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253526005919).
 <br/>
 Fanji Yang\*, **Huiyao Chen**\*, Xi Yu, Meishan Zhang, Xiaohong Xiao, Mingsen Deng
 <br/>
-In Information Fusion (**INFFU**) **<font color=dark red>IF 17.4</font>**, 2026. [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:H0ugjFoCMF8J:scholar.google.com/&output=citation&scisdr=CtR6EYaIELHs44rJftw:ANDmEU4AAAAAajTPZtyf5olVsklDFAcS_ysluN0&scisig=ANDmEU4AAAAAajTPZmhX0Y_Nj4sLXGo8HyF3zXs&scisf=4&ct=citation&cd=-1&hl=en)
+In Information Fusion (**INFFU**) **<font color=dark red>IF 17.4</font>**, 2026. [[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:H0ugjFoCMF8J:scholar.google.com/&output=citation&scisdr=CoF7qIu5ELL34znO-lo:AIVdB-wAAAAAaofI4lrdJspFopmFJL3rxvIVMKo&scisig=AIVdB-wAAAAAaofI4q8BgNwbV9Jg9R3quNzGgFw&scisf=4&ct=citation&cd=-1&hl=en)
 
 2. <a id="paper-air2026"></a>[A Comprehensive Survey of Semantic Role Labeling in the Era of Pretrained Language Models](https://link.springer.com/article/10.1007/s10462-026-11623-5).
 <br/>
@@ -140,7 +140,7 @@ Service
 
 Awards
 ======
-+ 2026, ACMMM AVI Challenge (Track 1) **<font color=dark red>No.2 Place</font>** (2/53).
++ 2026, ACMMM AVI Challenge (Track 1) **<font color=dark red>No.2 Place</font>**.
 + 2026, CCF-SLAI Tencent Project Up Doctoral Forum **<font color=dark red>Best Research Honor</font>**.
 + 2021, Extraordinary Academic Scholarship of TJU.
 + 2021, Outstanding Graduates in Hunan Province.
