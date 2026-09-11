@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D student in Computer Science, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html).
 
 
-My research interests lie in the areas of Sentiment Analysis (SA), Multi-Agent (MA), Retrieval-Augmented Generation (RAG) and Multimodal (e.g. speech). Recently, I focus on the augmentation and application of Large Language Models (LLMs).
+My research centers on exploiting **structured information**, such as semantic structures (e.g., Semantic Role Labeling) and discourse hierarchies, to augment Large Language Models (LLMs), with applications including Retrieval-Augmented Generation (RAG), sentiment and opinion analysis, and multimodal (e.g., speech) understanding. I am also interested in building **LLM-powered agents** for optimization and beautification tasks, such as handwritten note typesetting and scientific figure refinement.
 
 If you are interested in any aspect of my research, I would be delighted to discuss potential collaborations.
 
