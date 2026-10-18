@@ -41,7 +41,7 @@ Experience
 Open Source Projects
 ======
 1. **Scholar Citation Monitor** ![alt text](icon16.png) - A Chrome extension for automated Google Scholar citation tracking. Monitor multiple researchers' citation counts in the background without opening tabs, featuring real-time updates, multi-domain support, and lightweight design. Helps researchers focus on actual work rather than compulsive metrics checking. [[Github]](https://github.com/DreamH1gh/Scholar-Citation-Monitor) [[Chrome Web Store]](https://chromewebstore.google.com/detail/scholar-citation-monitor/hcmmccenfdomniepffcngceogeaajigc)
-   [![GitHub Stars](https://img.shields.io/github/stars/DreamH1gh/Scholar-Citation-Monitor?style=social)](https://github.com/DreamH1gh/Scholar-Citation-Monitor) [![Chrome Users](https://img.shields.io/chrome-web-store/users/hcmmccenfdomniepffcngceogeaajigc?label=Chrome%20Users&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/scholar-citation-monitor/hcmmccenfdomniepffcngceogeaajigc)
+   [![GitHub Stars](https://badgen.net/github/stars/DreamH1gh/Scholar-Citation-Monitor)](https://github.com/DreamH1gh/Scholar-Citation-Monitor) [![Chrome Users](https://img.shields.io/chrome-web-store/users/hcmmccenfdomniepffcngceogeaajigc?label=Chrome%20Users&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/scholar-citation-monitor/hcmmccenfdomniepffcngceogeaajigc)
 
 Selected Publications
 ======
@@ -134,8 +134,8 @@ In IEEE/ACM Transactions on Audio, Speech, and Language Processing (**TASLP**), 
 Service
 ======
 **Program Committee / Reviewer**
-+ CIKM 2026, ~~NeurIPS2026~~, NLPCC2025/2026, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
-+ ACM Computing Surveys (CSUR), TASLP, TALLIP, Neurocomputing, ESWA, EAAI
++ ICASSP2027, ICLR2027, CIKM 2026, ~~NeurIPS2026~~, NLPCC2025/2026, ICME2025/2026, EACL 2024/2026, ACL 2023/2025, EMNLP 2023 (external)
++ ACM Computing Surveys (CSUR), TASLP, TALLIP, Neurocomputing, ESWA, EAAI, Scientific Reports
 + ACL ARR
 
 Awards
