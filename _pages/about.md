@@ -17,6 +17,7 @@ If you are interested in any aspect of my research, I would be delighted to disc
 
 Recent News
 ======
++ 🎉 <span style='color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em'>**Paper**</span> · **2026.11** · [SkillStrata](#paper-skillstrata) was accepted to **KDD 2027**.
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.08** · Survey on Fake Review Detection accepted by **[Information Fusion (IF 17.4)](#paper-infofus2026)**.
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · Survey on Semantic Role Labeling published in **[Artificial Intelligence Review (AIR, IF 18.8)](#paper-air2026)**.
 + 🎉 <span style="color:#1e7e34; background-color:#e8f5ec; padding:1px 8px; border-radius:10px; font-size:0.85em">**Paper**</span> · **2026.07** · One paper accepted to **[ACL 2026](#paper-acl2026)** (Long paper, Main conference, **<font color=dark red>Oral</font>)**.
@@ -62,6 +63,13 @@ Xinxin Li\*, **Huiyao Chen**\*, Meishan Zhang, Yunxin Li, Zulong Chen, Zhibo Ren
 arXiv preprint, 2026. [[code]](https://github.com/fangfang123gh/ontology-asr-correction)[[cite]](https://scholar.googleusercontent.com/scholar.bib?q=info:pLTm3Yj6xd0J:scholar.google.com/&output=citation&scisdr=CtR6EYaIELHs44rIH94:ANDmEU4AAAAAajTOB97WO6w1exGMUV3KHlrXPs4&scisig=ANDmEU4AAAAAajTOByMYD-rO1irMq3xSn5Eb8i0&scisf=4&ct=citation&cd=-1&hl=zh-CN)
 
 **Conference Papers**
+
+1. <a id='paper-skillstrata'></a>SkillStrata: Mining Layered Skill Graphs for Session-Aware Agent Routing.
+<br/>
+**Huiyao Chen**, Yi Yang, Zulong Chen, Zhibo Ren, Xiaoqing Dong, Chuanliu Fan, Junjie Wu, Guohong Fu, Meishan Zhang, Baotian Hu, Min Zhang.
+<br/>
+In the 33rd SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2027.
+
 1. SAGE: Soft-gated Aggregation of Graded Experts for Cognitive Level Prediction in Video Interviews.
 <br/>
 Yan Luo, **Huiyao Chen**, Ramen Liu, Yumeng Fu, Kamal Elgallouch, Sanjida Ferdous, Meishan Zhang, Baotian Hu, Min Zhang.
